@@ -1,0 +1,4 @@
+interface:
+  display_name: "专利交底书编纂与提交前审查"
+  short_description: "编纂、原位修订和审查交底书，核对技术方案、公式及附图，比较全文与章节篇幅"
+  default_prompt: "使用 $patent-disclosure，按我的要求编纂、原位修改、审查或比较当前专利技术交底书；篇幅比较使用统一统计口径，修改时保持课题范围、技术方案、公式和附图一致。"
